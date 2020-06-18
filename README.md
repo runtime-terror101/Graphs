@@ -1,2 +1,2 @@
 # Graphs
-# Graphs
+Basic graph practice repo
